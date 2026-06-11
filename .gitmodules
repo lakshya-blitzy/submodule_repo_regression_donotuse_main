@@ -1,0 +1,3 @@
+[submodule "Folder_01/submodule_repo_linked_01"]
+	path = Folder_01/submodule_repo_linked_01
+	url = https://github.com/lakshya-blitzy/submodule_repo_regression_donotuse_main.git
